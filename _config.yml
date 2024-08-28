@@ -1,8 +1,8 @@
 # Basic Information 
-title: Chen Ling
-position: Ph.D. Candidate
-affiliation: Emory University
-email: chen.ling (at) emory.edu
+title: Huacen Xu
+position: Data Engineer
+affiliation: University of Georgia
+email: cbrinxu1@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,15 +12,13 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=275NKcEAAAAJ&hl=en
-cv_link: assets/files/Chen_Ling_s_CV.pdf
-github_link: https://github.com/lingchen0331
-linkedin: https://www.linkedin.com/in/chen-ling-838057a3/
-twitter: https://twitter.com/WallybobChen
+google_scholar: https://scholar.google.com/citations?hl=en&user=Q0wjoTYAAAAJ
+github_link: https://github.com/huacenxu
+linkedin: https://www.linkedin.com/in/huacenxu/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/avatar.jfif
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
