@@ -15,15 +15,13 @@ My work focuses on two main areas:
 
 
 
-## News
-- **[May. 2024]** Two papers are accepted by KDD 2024 (Cross-network Source Localization) and ACL 2024 (Knowledge Distillation)!
-- **[Apr. 2024]** Happy to be invited to present novel techniques on specializing LLMs in domain-specific applications at BlackRock Atlanta innovation hub (ATL iHub), slides can be found [here](./assets/files/domain_specialization_blackrock.pdf).
-- **[Mar. 2024]** Our survey paper on [Domain Specialization of LLMs](https://arxiv.org/abs/2305.18703) is honorably mentioned by [The 2024 Economic Report of the President](https://www.whitehouse.gov/cea/written-materials/2024/03/21/the-2024-economic-report-of-the-president/) from the White House. Thanks to all collaborators, stay tuned!
-- **[Mar. 2024]** One paper about LLM Uncertainty Decomposition is accepted by NAACL 2024.
-- **[Feb. 2024]** I will join AWS Security Analytics and AI Research team as an Applied Scientist Intern at NYC in summer 2024!
-- **[Jan. 2024]** Our paper about Influence Maximization on Multiplex Networks is accepted by AISTATS 2024.
-- **[Oct. 2023]** Our paper about commonsense reasoning is accepted by EMNLP 2023!
-- **[Sep. 2023]** Our [LLM4Bio Workshop](https://llms4science-community.github.io/aaai2024.html) has been accepted by [AAAI 2024](https://aaai.org/aaai-conference/). [Call for Papers](https://llms4science-community.github.io/aaai2024.html#call4paper) is here!
+## Technical Expertis
+- **Machine Learning:** Proficient in applying machine learning techniques, including supervised and unsupervised learning, to develop predictive models for financial analysis and risk assessment.
+
+- **Artificial Intelligence:** Skilled in AI methodologies such as natural language processing (NLP), data mining, and algorithmic optimization to extract actionable insights from complex datasets.
+
+- **Data Analysis:** Experienced in using Python, Power BI, and SQL for statistical analysis, data visualization, and model development, with a focus on financial and social data.
+
 
 {% include_relative _includes/publications.md %}
 
