@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I am a data engineer at BlackRock, the largest asset management firm in the world. My team is part of Aladdin Data – BlackRock’s in-house data center, which itself is a billion-dollar SaaS platform—focuses on data quality control for BlackRock’s flagship Green Package product. Leveraging my technical acumen and financial knowledge, my work supports the team’s efforts to ensure accuracy and efficiency in Green Package production. While continuing my professional work, I also pursue academic research, as I believe in the value of academic research in industry applications.
+Hi, I am a data engineer at [BlackRock](https://www.blackrock.com/), the largest asset management firm in the world. My team is part of [Aladdin](https://www.blackrock.com/aladdin) Data – BlackRock’s in-house data center, which itself is a billion-dollar SaaS platform—focuses on data quality control for [BlackRock’s](https://www.blackrock.com/) flagship Green Package product. Leveraging my technical acumen and financial knowledge, my work supports the team’s efforts to ensure accuracy and efficiency in Green Package production. While continuing my professional work, I also pursue academic research, as I believe in the value of academic research in industry applications.
 
 ## Research Interest
 
