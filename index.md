@@ -15,7 +15,7 @@ My work focuses on two main areas:
 
 
 
-## Technical Expertis
+## Technical Expertise
 - **Machine Learning:** Proficient in applying machine learning techniques, including supervised and unsupervised learning, to develop predictive models for financial analysis and risk assessment.
 
 - **Artificial Intelligence:** Skilled in AI methodologies such as natural language processing (NLP), data mining, and algorithmic optimization to extract actionable insights from complex datasets.
