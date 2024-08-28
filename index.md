@@ -4,17 +4,16 @@ layout: homepage
 
 ## About Me
 
-Welcome! I'm Chen Ling, a fourth-year Ph.D. student at [Emory University](https://www.cs.emory.edu/home/), where I am fortunately working with Professor [Liang Zhao](http://cs.emory.edu/~lzhao41/index.htm). Prior to that, I obtained my M.S. Degree in Computer Science at the University of Delaware and B.S. Degree in Computer Science at the University of Vermont. I have several experience in industry AI Labs, including [Amazon AWS Guardduty](https://aws.amazon.com/guardduty/), [NEC Labs America](https://www.nec-labs.com/research/data-science-system-security/), [IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/), and [iFlyTek](https://global.iflytek.com/).
+Hi, I am a data engineer at BlackRock, the largest asset management firm in the world. My team is part of Aladdin Data – BlackRock’s in-house data center, which itself is a billion-dollar SaaS platform—focuses on data quality control for BlackRock’s flagship Green Package product. Leveraging my technical acumen and financial knowledge, my work supports the team’s efforts to ensure accuracy and efficiency in Green Package production. While continuing my professional work, I also pursue academic research, as I believe in the value of academic research in industry applications.
 
-My research encompasses Graph Mining, Natural Language Processing, and Applied Machine Learning. During the past few years, I am privileged to collaborate with amazing industry researchers from Amazon AWS, NEC Labs America, Microsoft Research, and IBM Research. My works have been published at top AI conferences, including ICML, KDD, ICLR, ACL, NAACL, EMNLP, TheWebConf (aka. WWW), ICDM, ECML-PKDD, etc.
+## Research Interest
 
-I have been actively looking for *research scientist* or *machine learning engineer* full-time positions in <span style="color:lightpink;font-weight:bold">Fall 2024</span>. Feel free to reach out if there are any opportunities!
+My work focuses on two main areas:
 
-## Research Interests
+- The first centers on applying advanced AI techniques to develop predictive models that uncover disparities across social structures in our financial system. For example, I investigate how social norms and stratification influence life chances and financial outcomes. By incorporating and quantifying these macro and individual factors, we can improve financial modeling in our fast-changing, highly polarized, and divided society. I aim to expand my work in this area.
+- The second focus is on science communication, particularly regarding public perceptions of AI technologies. This includes studying the political polarization of science, which highlights the importance of ideologies and worldviews in shaping our responses to issues such as COVID-19, vaccination, and AI applications.
 
-- **Graph Data Mining:** Graph Representation Learning, Generative Models on Graphs, Graph Inverse Problems
-- **Machine Learning:** Domain Generalization, Continual Learning
-- **Natural Language Processing:** Applications of Large Language Model, Neural Machine Reasoning
+
 
 ## News
 - **[May. 2024]** Two papers are accepted by KDD 2024 (Cross-network Source Localization) and ACL 2024 (Knowledge Distillation)!
