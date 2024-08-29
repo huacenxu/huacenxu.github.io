@@ -19,7 +19,7 @@
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical">
-    <em style="font-style: normal !important; text-align: right !important; display: block;" 
+    <em style="font-style: normal !important; text-align: left !important; display: block;" 
         class="with-bullet">{{ link.conference }}</em>
       </div>
     <div class="links">
