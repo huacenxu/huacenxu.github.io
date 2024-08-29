@@ -1,28 +1,29 @@
 main:
   - title: "Convergence or Divergence? A Cross-Platform Analysis of Climate Change Visual Content Categories, Features, and Social Media Engagement on Twitter and Instagram"
-    authors: <u>H Xu</u>
-    conference: In this research, we apply predictive models to analyze and compare social media content, providing insights into how different platforms influence public discourse.
+    authors: S Qian, Y Lu, Y Peng, CC Shen, <u>Hnuace Xu</u> - <i>Public Relations Review, 2024</i>  
+    conference: Through unsupervised image clustering, we identified five main categories of climate change visuals. We found that Instagram featured more nature landscapes and wildlife, while Twitter had more infographics and captioned images. These differences also extended to visual features like color tones and the presence of faces. Our findings emphasize the importance of tailoring visual content to platform-specific characteristics when communicating about climate change on social media.
     pdf: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q0wjoTYAAAAJ&citation_for_view=Q0wjoTYAAAAJ:W7OEmFMy1HYC 
 
   - title: "Examining Public Attitudes and Ideological Divides Through Media Engagement: An Empirical Analysis of Moral Foundations Theory Amidst the COVID-19 Pandemic"
-    authors: <u>H Xu</u>
+    authors: <u>Huacen Xu</u> - <i>Current Research in Social Psychology, 2024</i> 
+
     conference:  In this study, I apply Moral Foundations Theory to analyze 53,358 Facebook posts from U.S. news outlets during the COVID-19 pandemic. My study highlights how these moral frameworks influence audience engagement and public responses to scientific and social issues. 
     pdf: https://crisp.org.uiowa.edu/sites/crisp.org.uiowa.edu/files/2024-03/Xu%20CRISP%2033.2.pdf
     code: https://github.com/huacenxu/COVID-Morality
   
 
   - title: "Couple Similarity and Life Satisfaction: A Study of Young Couples in Shanghai of Mainland China"
-    authors: <u>H Xu</u>
+    authors: K Shen, <u>Huacen Xu</u>, O Joshi, F Chen - <i>Chinese Families: Tradition, Modernisation, and Change, 2021</i>
     conference:  Using data from the Fudan Yangtze River Delta Social Transformation Survey and applying ordered logistic regression models, this study reveals that while traditional markers of marriage hypergamy have minimal impact, hukou status—reflecting social stratification—significantly influences life satisfaction among young married couples in Shanghai.
     pdf: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q0wjoTYAAAAJ&citation_for_view=Q0wjoTYAAAAJ:u-x6o8ySG0sC  
 
   - title: "Can Microfinance Achieve Both Social and Financial Goals? Investigation on MicroCred Nanchong"
-    authors: <u>H Xu</u>
+    authors: <u>Huacen Xu</u> - <i>Inclusive Finance in China, 2021</i>
     conference:  I conducted in-depth interviews with Nanchong Meixin executives to understand how their internal mechanisms balance both social and commercial goals, offering valuable insights into the dual objectives of microfinance institutions.
     pdf: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q0wjoTYAAAAJ&citation_for_view=Q0wjoTYAAAAJ:d1gkVwhDpl0C   
 
   - title: "Double Bind in Loan Access in China: The Reification of Gender Differences in Business Loans"
-    authors: <u>H Xu</u>
-    conference: This paper utilizes machine learning to analyze and address gender disparities in loan access, pinpointing that women’s perception of being more likely to be rejected for a loan affects their willingness to apply in the first place.
+    authors: <u>Huacen Xu</u>, HJ Zhan, CEE James, LD Fannin, Y Yin - <i>International Journal of Gender and Entrepreneurship, 2018</i>
+    conference: This paper utilizes predictive modeling to analyze and address gender disparities in loan access, highlighting that women's perception of a higher likelihood of loan rejection affects their willingness to apply in the first place
     pdf: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q0wjoTYAAAAJ&citation_for_view=Q0wjoTYAAAAJ:u5HHmVD_uO8C  
   
