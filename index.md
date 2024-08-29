@@ -13,7 +13,7 @@ While continuing my professional work, I also pursue academic research, as I bel
 - The first centers on applying advanced AI techniques to develop predictive models that uncover disparities across social structures in our financial system. For example, I investigate how social norms and stratification influence life chances and financial outcomes. By incorporating and quantifying these macro and individual factors, we can improve financial modeling in our fast-changing, highly polarized, and divided society. I aim to expand my work in this area.
 - The second focus is on science communication, particularly regarding public perceptions of AI technologies. This includes studying the political polarization of science, which highlights the importance of ideologies and worldviews in shaping our responses to issues such as COVID-19, vaccination, and AI applications.
 
-{% include_relative _includes/publications.md %}
+
 
 ## Technical Expertise
 - **Machine Learning:** Proficient in applying machine learning techniques, including supervised and unsupervised learning, to develop predictive models for financial analysis and risk assessment.
@@ -21,6 +21,13 @@ While continuing my professional work, I also pursue academic research, as I bel
 - **Artificial Intelligence:** Skilled in AI methodologies such as natural language processing (NLP), data mining, and algorithmic optimization to extract actionable insights from complex datasets.
 
 - **Data Analysis:** Experienced in using Python, Power BI, and SQL for statistical analysis, data visualization, and model development, with a focus on financial and social data.
+
+{% include_relative _includes/publications.md %}
+
+## Academic Conference Reviewer 
+- Annual Conference of the American Council on Consumer Interests (ACCI)
+- Annual International Communication Association Conference (ICA)
+
 
 
 
