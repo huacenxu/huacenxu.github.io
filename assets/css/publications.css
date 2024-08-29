@@ -52,7 +52,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .title { font-weight: bolder; color: black;}
 
-.publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
+.publications ol.bibliography li .author a { border-bottom: 1px var(--global-text-color); }
 
 .publications ol.bibliography li .author a:hover { border-bottom-style: solid; text-decoration: none; }
 
