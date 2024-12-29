@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I am a data engineer at [BlackRock](https://www.blackrock.com/), the largest asset management firm in the world. My team is part of [Aladdin](https://www.blackrock.com/aladdin) Data – BlackRock’s in-house data center and a multibillion-dollar SaaS platform. Leveraging my technical expertise and financial knowledge, I focus on optimizing processes and leveraging AI to enhance data quality and products, contributing to improved client transparency and services. For more about my professional journey, please check [my resume here](https://drive.google.com/file/d/1hlUAAuISTCTPKzxRRHAfblp7jFCG9TEl/view?usp=sharing).
+Hi, I am a data engineer at [BlackRock](https://www.blackrock.com/), the largest asset management firm in the world. My team is part of [Aladdin](https://www.blackrock.com/aladdin) Data – BlackRock’s in-house data center and a multibillion-dollar SaaS platform. Leveraging my technical expertise and financial knowledge, I focus on optimizing processes and leveraging AI to enhance data quality and products, contributing to improved client transparency and services. For more about my professional journey, please check my resume [here](https://drive.google.com/file/d/1hlUAAuISTCTPKzxRRHAfblp7jFCG9TEl/view?usp=sharing).
 
 ## Technical Expertise
 - **Machine Learning:** Proficient in applying machine learning techniques, including supervised and unsupervised learning, to develop predictive models for financial analysis and risk assessment.
