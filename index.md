@@ -4,24 +4,24 @@ layout: homepage
 
 ## About Me
 
-Hi, I am a data engineer at [BlackRock](https://www.blackrock.com/), the largest asset management firm in the world. My team is part of [Aladdin](https://www.blackrock.com/aladdin) Data – BlackRock’s in-house data center and a multibillion-dollar SaaS platform. Leveraging my technical expertise and financial knowledge, I focus on optimizing processes and leveraging AI to enhance data quality and products, contributing to improved client transparency and services. For more about my professional journey, please check my resume [here](https://drive.google.com/file/d/1hlUAAuISTCTPKzxRRHAfblp7jFCG9TEl/view?usp=sharing).
+Hi, I am a data engineer at [BlackRock](https://www.blackrock.com/), the world's largest asset management firm. My team is part of Aladdin Data – BlackRock's proprietary data platform that powers over $20 trillion in assets under management. I specialize in developing automated governance frameworks, compliance analytics, and AI-driven solutions that enhance data quality and risk management across enterprise financial systems.
 
-## Technical Expertise
-- **Machine Learning:** Proficient in applying machine learning techniques, including supervised and unsupervised learning, to develop predictive models for financial analysis and risk assessment.
+Drawing on my background in quantitative analysis and financial technology, I lead cross-functional initiatives that translate analytical insights into scalable technical solutions. My work spans from developing dashboards for real-time compliance monitoring to creating Python automation frameworks that reduce manual oversight while improving data accuracy and system reliability. I bring both research rigor and practical technical expertise to my role, with published work in data science and financial analytics, alongside hands-on experience building enterprise-scale data solutions.
 
-- **Artificial Intelligence:** Skilled in AI methodologies such as natural language processing (NLP), data mining, and algorithmic optimization to extract actionable insights from complex datasets.
+## My Strengths
 
-- **Data Analytics:** Experienced in using Python, Power BI, and SQL for statistical analysis, data visualization, and model development, with a focus on financial and social data.
+- **Scalable AI Solutions & Process Optimization:** Expert in developing enterprise-scale automation frameworks and AI-driven solutions that optimize complex workflows.
+  
+- **Stakeholder Engagement & Cross-Functional Communication:** Strong ability to translate technical concepts into business value, securing buy-in from diverse stakeholders across all organizational levels. Experienced in leading cross-functional initiatives and presenting complex data insights to both technical and non-technical audiences.
 
-## Research Interest
+## Research Focus
 
-While continuing my professional work, I also pursue academic research, as I believe in the value of academic research in industry applications. My work focuses on two main areas:
-
-- The first centers on applying advanced AI techniques to develop predictive models that uncover disparities across social structures in our financial system. For example, I investigate how social norms and stratification influence life chances and financial outcomes. By incorporating and quantifying these macro and individual factors, we can improve financial modeling in our fast-changing, highly polarized, and divided society. I aim to expand my work in this area.
-- The second focus is on science communication, particularly regarding public perceptions of AI technologies. This includes studying the political polarization of science, which highlights the importance of ideologies and worldviews in shaping our responses to issues such as COVID-19, vaccination, and AI applications.
+- **Financial Data Analytics:** Developing predictive models and automated systems for financial analysis, with published work on quantitative modeling and risk assessment. 
+  
+- **Cross-Platform Data Analysis:** Leading analysis of user engagement patterns and data optimization across digital platforms, applying machine learning techniques to improve system performance and data quality.
 
 {% include_relative _includes/publications.md %}
-## Academic Conference Reviewer 
+## Academic Reviewer 
 - Annual Conference of the American Council on Consumer Interests (ACCI)
 - Annual International Communication Association Conference (ICA)
 
