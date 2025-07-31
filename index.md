@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I am a data engineer at [BlackRock](https://www.blackrock.com/), the world's largest asset management firm. My team is part of Aladdin Data – BlackRock's proprietary data platform that powers over $10 trillion in assets under management. I bring both research rigor and practical technical expertise to my role, with published work in financial modeling and platform engagement, alongside hands-on experience building enterprise-scale data solutions. 
+Hi, I am a data professional at [BlackRock](https://www.blackrock.com/), the world's largest asset management firm. My team is part of Aladdin Data – BlackRock's proprietary data platform that powers over $10 trillion in assets under management. I bring both research rigor and practical technical expertise to my role, with published work in financial modeling and platform engagement, alongside hands-on experience building enterprise-scale data solutions. 
 
 My work spans from developing dashboards for real-time compliance monitoring to creating Python automation frameworks that reduce manual oversight while improving data accuracy and system reliability. My research provides me a framework to understand initiatives and connect technical insights into business acumen, which positions me uniquely to deliver business value.
 
