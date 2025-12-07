@@ -25,6 +25,8 @@ MS in Business Analytics (AI) from University of Georgia | Published researcher 
 
 Focus areas: Financial modeling, platform engagement, AI applications in finance
 
+{% include_relative _includes/publications.md %}
+
 **Academic Reviewer:**
 - Annual Conference of the American Council on Consumer Interests (ACCI)
 - Annual International Communication Association Conference (ICA)
