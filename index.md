@@ -4,23 +4,22 @@ layout: homepage
 
 ## About Me
 
-Hi, I am a data scientist & engineer at [BlackRock](https://www.blackrock.com/), the world's largest asset management firm. My team is part of Aladdin Data – BlackRock's proprietary data platform that powers over $10 trillion in assets under management. I bring both research rigor and practical technical expertise to my role, with published work in financial modeling and platform engagement, alongside hands-on experience building enterprise-scale data solutions. 
+Hi, I am a Data Scientist & Engineer at [BlackRock](https://www.blackrock.com), the world's largest asset management firm. My team is part of Aladdin Data — BlackRock's proprietary data platform that powers over $10 trillion in assets under management. I work at the intersection of **AI/ML and finance**: building automation frameworks, machine learning solutions, and data quality systems for enterprise-scale financial data.
 
-My work spans from developing dashboards for real-time compliance monitoring to creating Python automation frameworks that reduce manual oversight while improving data accuracy and system reliability. My research provides me a framework to understand initiatives and connect technical insights into business acumen, which positions me uniquely to deliver business value.
+My background combines published research with hands-on engineering. I apply computational methods — NLP, embedding models, predictive modeling — to financial and social questions, and I bring that research rigor to production systems: real-time compliance monitoring, Python automation frameworks that reduce manual oversight, and ML-driven data quality improvements.
 
-## My Strengths
+## Focus Areas
 
-- **Scalable AI Solutions & Process Optimization:** Experienced in developing automation frameworks and AI-driven solutions that optimize complex workflows, with hands-on Python programming and machine learning implementation. 
-  
-- **Stakeholder Engagement & Cross-Functional Communication:** Skilled at connecting platform engineering perspectives to data analytics and insights, facilitating cross-functional collaboration and achieving stakeholder alignment. 
+- **AI & Machine Learning in Finance:** Developing predictive models, LLM-powered tools, and automated systems for financial analysis — from bond risk analytics to AI-powered document retrieval for financial data platforms.
+- **Scalable Automation & Data Quality:** Building Python automation frameworks and validation libraries that optimize complex enterprise workflows while improving data accuracy and system reliability.
+- **Research → Production:** Translating published research methods (NLP at scale, embedding models, statistical modeling) into business value on enterprise financial data platforms.
 
-## Research Focus
+## Selected Projects
 
-- **Financial Modeling:** Developing predictive models and automated systems for financial analysis from both macro and micro levels, with experience in statistical programming and data visualization.
-  
-- **Platform Engagement:** Analyzing user engagement patterns across platforms, applying machine learning techniques and data processing pipelines to improve user experience.
+- **[Bond-Risk-Analyzer](https://github.com/huacenxu/Bond-Risk-Analyzer)** — Decision-tree insights and nearest-neighbor proxy identification to streamline risk analysis for financial datasets.
+- **[Embedding-Models-for-AI-Retrieval](https://github.com/huacenxu/Embedding-Models-for-AI-Retrieval)** — Domain-specific embedding model for AI-powered document retrieval: synthetic data generation, fine-tuning, FAISS vector search, evaluated with MRR@5.
+- **[PRI-Insights-Chatbot](https://github.com/huacenxu/PRI-Insights-Chatbot)** — ML and LLM-powered question-answering and insight generation for enhanced data interaction.
 
 {% include_relative _includes/publications.md %}
-## Academic Reviewer 
-- Annual Conference of the American Council on Consumer Interests (ACCI)
-- Annual International Communication Association Conference (ICA)
+
+*Full publication list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Q0wjoTYAAAAJ). Code and projects on [GitHub](https://github.com/huacenxu).*
