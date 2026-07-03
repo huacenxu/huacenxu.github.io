@@ -10,9 +10,9 @@ My background combines published research with hands-on engineering. I apply com
 
 ## Focus Areas
 
-- **AI & Machine Learning in Finance:** Developing predictive models, LLM-powered tools, and automated systems for financial analysis — from bond risk analytics to AI-powered document retrieval for financial data platforms.
-- **Scalable Automation & Data Quality:** Building Python automation frameworks and validation libraries that optimize complex enterprise workflows while improving data accuracy and system reliability.
-- **Research → Production:** Translating published research methods (NLP at scale, embedding models, statistical modeling) into business value on enterprise financial data platforms.
+- **AI in Finance & Applied ML:** Building predictive models and LLM-powered tools for financial analysis: bond risk analytics, AI document retrieval, and automation for enterprise data platforms.
+- **Data Tokenization (US Patent Pending):** Co-inventor on a blockchain-based approach to tokenizing data access entitlements for enterprise data governance.
+- **Research → Production:** Translating published research methods (embedding models, statistical modeling) into working systems on enterprise financial data platforms.
 
 ## Selected Projects
 

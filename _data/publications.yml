@@ -10,12 +10,6 @@ main:
     conference: Unsupervised image clustering identified five categories of climate visuals and platform-specific engagement patterns — ML-driven visual content analysis at scale.
     pdf: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q0wjoTYAAAAJ&citation_for_view=Q0wjoTYAAAAJ:W7OEmFMy1HYC
 
-  - title: "Examining Public Attitudes and Ideological Divides Through Media Engagement: An Empirical Analysis of Moral Foundations Theory Amidst the COVID-19 Pandemic"
-    authors: <u>Huacen Xu</u> - <i>Current Research in Social Psychology, 2024</i>
-    conference: NLP analysis of 53,358 Facebook posts from U.S. news outlets, quantifying how moral frameworks shape audience engagement.
-    pdf: https://crisp.org.uiowa.edu/sites/crisp.org.uiowa.edu/files/2024-03/Xu%20CRISP%2033.2.pdf
-    code: https://github.com/huacenxu/COVID-Morality
-
   - title: "Double Bind in Loan Access in China: The Reification of Gender Differences in Business Loans"
     authors: <u>Huacen Xu</u>, HJ Zhan, CEE James, LD Fannin, Y Yin - <i>International Journal of Gender and Entrepreneurship, 2018</i>
     conference: Predictive modeling of gender disparities in loan access — how perceived rejection likelihood suppresses applications.
