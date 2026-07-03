@@ -12,7 +12,6 @@ My background combines published research with hands-on engineering. I apply com
 
 - **AI in Finance & Applied ML:** Building predictive models and LLM-powered tools for financial analysis: bond risk analytics, AI document retrieval, and automation for enterprise data platforms.
 - **Data Tokenization (US Patent Pending):** Co-inventor on a blockchain-based approach to tokenizing data access entitlements for enterprise data governance.
-- **Research → Production:** Translating published research methods (embedding models, statistical modeling) into working systems on enterprise financial data platforms.
 
 ## Selected Projects
 
