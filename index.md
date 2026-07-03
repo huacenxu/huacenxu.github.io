@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi, I am a Data Scientist & Engineer at [BlackRock](https://www.blackrock.com), the world's largest asset management firm. My team is part of Aladdin Data — BlackRock's proprietary data platform that powers over $10 trillion in assets under management. I work at the intersection of **AI/ML and finance**: building automation frameworks, machine learning solutions, and data quality systems for enterprise-scale financial data.
+Hi, I'm a Data Scientist & Engineer at [BlackRock](https://www.blackrock.com), the world's largest asset manager. I work on Aladdin Data — the data platform behind Aladdin, BlackRock's investment and risk platform — building automation frameworks, ML solutions, and data quality systems for enterprise-scale financial data.
 
-My background combines published research with hands-on engineering. I apply computational methods — NLP, embedding models, predictive modeling — to financial and social questions, and I bring that research rigor to production systems: real-time compliance monitoring, Python automation frameworks that reduce manual oversight, and ML-driven data quality improvements.
+My background combines published research with hands-on engineering. I apply computational methods — NLP, embedding models, predictive modeling — to problems in finance, and bring research rigor to production systems: governance certification automation, Python frameworks that reduce manual oversight, and ML-driven data quality improvements.
 
 ## Focus Areas
 
