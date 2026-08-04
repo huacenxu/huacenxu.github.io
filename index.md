@@ -4,13 +4,14 @@ layout: homepage
 
 ## About Me
 
-Hi, I'm a Data Scientist & Engineer at [BlackRock](https://www.blackrock.com), the world's largest asset manager. I work on Aladdin Data — the data platform behind Aladdin, BlackRock's investment and risk platform — building automation frameworks, ML solutions, and data quality systems for enterprise-scale financial data.
+Hi, I'm a Data Scientist & Engineer at [BlackRock](https://www.blackrock.com/), the world's largest asset manager. I work on Aladdin Data — the data platform behind Aladdin, BlackRock's investment and risk platform — building the engineering layer of data governance: certification automation, compliance pipelines, and AI-grounded agent tooling, alongside ML solutions for enterprise-scale financial data.
 
-My background combines published research with hands-on engineering. I apply computational methods — NLP, embedding models, predictive modeling — to problems in finance, and bring research rigor to production systems: governance certification automation, Python frameworks that reduce manual oversight, and ML-driven data quality improvements.
+My background combines published research with hands-on engineering. I apply computational methods — NLP, embedding models, predictive modeling — to social and economic questions, and bring research rigor to production systems: governance certification automation, Python frameworks that reduce manual oversight, and ML-driven data quality improvements.
 
 ## Focus Areas
 
-- **AI in Finance & Applied ML:** Building predictive models and LLM-powered tools for financial analysis: bond risk analytics, AI document retrieval, and automation for enterprise data platforms.
+- **Governance Engineering & Automation:** Building the tooling behind enterprise data governance — certification automation, compliance pipelines, and AI-grounded agent skills.
+- **Computational Social Science & Applied ML:** NLP, embedding models, and predictive modeling applied to social and economic questions — peer-reviewed research on moral framing, credit access, and housing disparities.
 - **Data Tokenization (US Patent Pending):** Co-inventor on a blockchain-based approach to tokenizing data access entitlements for enterprise data governance.
 
 ## Selected Projects
