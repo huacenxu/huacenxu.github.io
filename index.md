@@ -16,8 +16,9 @@ Before that I was a research analyst at the University of Georgia, where I compl
 
 ## Selected Projects
 
-**Governance engineering patterns** — three public repos, one architecture, built on personal time. All data, standards, and names in them are invented. How the pieces fit on a data platform: [architecture notes](https://github.com/huacenxu/governance-architecture/blob/main/ARCHITECTURE.md).
+**Governance engineering patterns** — four repos, on sanitized synthetic data.
 
+- **[governance-architecture](https://github.com/huacenxu/governance-architecture/blob/main/ARCHITECTURE.md)** — Architecture notes: where each piece sits on an enterprise data platform, how they connect through the catalog, and what's next, with an at-a-glance diagram.
 - **[compliance-pipeline-pattern](https://github.com/huacenxu/compliance-pipeline-pattern)** — Governance policy checks as SQL files, run through a fixed extract → transform → metrics → load pipeline; a new domain is config only, no core code changes.
 - **[governance-certification-service](https://github.com/huacenxu/governance-certification-service)** — Turns the pipeline's output into a certificate PDF, walks it through a two-stage approval with HMAC-signed one-click links, and grounds a Q&A assistant on a resilient LLM client (model fallback, error triage, circuit breaker).
 - **[policy-knowledge-graph](https://github.com/huacenxu/policy-knowledge-graph)** — Syncs a policy wiki into a deterministic knowledge graph where every edge explains itself, routes questions by walking the graph, and gates the knowledge base with a three-score eval in CI; ships as two Claude Code skills for answering policy questions and evaluating taxonomy changes.
