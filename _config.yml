@@ -1,16 +1,17 @@
 # Basic Information 
 title: Huacen Xu
-position: Data Scientist & Engineer
+position: Data Scientist | Data Engineer
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Huacen Xu, data scientist, data engineer, data governance, compliance pipeline, knowledge graph, machine learning, computational social science
+description: Huacen Xu — Data Scientist | Data Engineer. Governance engineering, applied ML, and computational social science.
+canonical: https://huacenxu.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?hl=en&user=Q0wjoTYAAAAJ
+cv_link: assets/files/Huacen_Xu_Resume_2026.pdf
 github_link: https://github.com/huacenxu
 linkedin: https://www.linkedin.com/in/huacenxu/
 email_link: brinxu1@gmail.com
