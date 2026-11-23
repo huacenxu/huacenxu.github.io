@@ -8,7 +8,7 @@ Hi, I'm a Data Scientist at [BlackRock](https://www.blackrock.com/) in Atlanta, 
 
 I build the engineering layer of data governance: the compliance pipeline that turns policy SQL into per-dataset compliance status, the certification component of Certification-as-a-Service (a Streamlit platform generating PDF certificates), governance agent skills grounded in the internal policy wiki, and the target-state architecture for the enterprise data taxonomy. I lead the firmwide data taxonomy approval forum, and I'm a co-inventor on a patent-pending tokenized data-distribution framework.
 
-Before that I was a research analyst at the University of Georgia, where I completed an MS in Business Analytics, building NLP pipelines over 85K+ news articles and modeling social and economic questions with multilevel models and decomposition methods.
+Before that I was a research assistant at the University of Georgia, where I completed an MS in Business Analytics, building NLP pipelines over 85K+ news articles and modeling social and economic questions with multilevel models and decomposition methods.
 
 ## Focus Areas
 
