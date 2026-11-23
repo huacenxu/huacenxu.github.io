@@ -23,7 +23,6 @@ Worked out on sanitized synthetic data, as one architecture:
 - **Compliance-check pipeline** — Governance policy checks as SQL files, run through a fixed extract → transform → metrics → load pipeline; a new domain is config only, no core code changes.
 - **Certification workflow** — Turns the pipeline's output into a certificate PDF, walks it through a two-stage approval with HMAC-signed one-click links, and grounds a Q&A assistant on a resilient LLM client (model fallback, error triage, circuit breaker).
 - **Governance knowledge graph** — Syncs a policy wiki into a deterministic knowledge graph where every edge explains itself, routes questions by walking the graph, and gates the knowledge base with a three-score eval in CI; exposed as agent skills for answering policy questions and evaluating taxonomy changes.
-- **Architecture notes** — Where each piece sits on an enterprise data platform, how they connect through the catalog, and what's next.
 
 Pattern code available on request.
 
