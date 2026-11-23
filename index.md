@@ -16,16 +16,6 @@ Before that I was a research analyst at the University of Georgia, where I compl
 - **Agent Evaluation & Applied ML:** LLM agents, retrieval-augmented generation, embedding models and vector search; token-usage and prompt-caching evaluation harnesses; NLP and predictive modeling applied to social and economic questions — peer-reviewed research on moral framing, credit access, and housing disparities.
 - **Data Tokenization (US Patent Pending):** Co-inventor on a blockchain-based approach to tokenizing data access entitlements for enterprise data governance, where the token balance is the access control and the ledger is the audit trail.
 
-## Governance Engineering Patterns
-
-Worked out on sanitized synthetic data, as one architecture:
-
-- **Compliance-check pipeline** — Governance policy checks as SQL files, run through a fixed extract → transform → metrics → load pipeline; a new domain is config only, no core code changes.
-- **Certification workflow** — Turns the pipeline's output into a certificate PDF, walks it through a two-stage approval with HMAC-signed one-click links, and grounds a Q&A assistant on a resilient LLM client (model fallback, error triage, circuit breaker).
-- **Governance knowledge graph** — Syncs a policy wiki into a deterministic knowledge graph where every edge explains itself, routes questions by walking the graph, and gates the knowledge base with a three-score eval in CI; exposed as agent skills for answering policy questions and evaluating taxonomy changes.
-
-Pattern code available on request.
-
 {% include_relative _includes/publications.md %}
 
 *Full publication list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Q0wjoTYAAAAJ). Code and projects on [GitHub](https://github.com/huacenxu).*
